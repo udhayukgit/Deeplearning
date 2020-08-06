@@ -7,8 +7,8 @@ https://download.pytorch.org/whl/cpu/torchvision-0.6.0%2Bcpu-cp36-cp36m-linux_x8
 matplotlib
 pandas
 scipy
-dataclassess
-fastprogress
+dataclassess==0.7
+fastprogress==0.2.3
 fastai
 
 
