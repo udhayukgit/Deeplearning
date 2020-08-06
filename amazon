@@ -1,0 +1,5 @@
+ec2-3-16-125-29.us-east-2.compute.amazonaws.com
+
+ec2-3-84-173-244.compute-1.amazonaws.com --fastai.pem
+
+puttygen -t rsa -b 2048 -C "ubuntu@ec2-3-84-173-244.compute-1.amazonaws.com" -o fastai.ppk
